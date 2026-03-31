@@ -1,0 +1,13 @@
+dependent/independent
+
+the vaccine taken is dependent on genetics in indian vs american
+
+difference
+
+vaccine taken there is slight difference in indian vs american
+
+p values
+
+p>0.05-fail to reject
+
+p≤0.05-reject
